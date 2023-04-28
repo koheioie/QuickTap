@@ -21,24 +21,7 @@ import java.util.SimpleTimeZone;
 import java.util.logging.LogRecord;
 
 public class GameAction3 extends AppCompatActivity implements Runnable,View.OnClickListener{
-    //GameAction3クラス
-    //AppCompatActivityはAndroidアプリを利用するのに必要な基本的なクラス
-    //
-    //View.OnClickListenerクラスはボタンに対するクリック処理を設定する為のクラス
-    /*Viewクラスの中にOnclickListenerというインターフェースが定義されているので、
-     OnclickListenerを使う際はView.OnclickListenerという風にして使う*/
-
-    /*
-    スレッド(Thread)と(Runnable)は、プログラム上で複数の処理を同時に動かす仕組み
-    ↓
-    上を継承したクラスでスレッド(Thread)と(Runnable)で実行したい処理をrunメソッドに書く
-    ↓
-    記述したスレッド(Thread)と(Runnable)で実行するにはこのThreadを継承したクラスのインスタンスを生成し、startメソッドを呼び出す
-    ↓
-
-
-     */
-
+    
     private Button b1;
     private Button b2;
     private Button b3;
