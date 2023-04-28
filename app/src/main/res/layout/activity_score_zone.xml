@@ -33,24 +33,7 @@
         android:layout_gravity="center"
         android:orientation="vertical">
 
-<!--        <TextView-->
-<!--            android:id="@+id/textNew"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="100dp"-->
-<!--            android:text="NEW RECORD"-->
-<!--            android:textColor="@color/material_on_background_emphasis_medium"-->
-<!--            android:textSize="30dp"-->
-<!--            android:gravity="center"-->
-<!--            />-->
 
-<!--        <TextView-->
-<!--            android:id="@+id/textScore"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="100dp"-->
-<!--            android:text="HIGHSCORE"-->
-<!--            android:textColor="@color/material_on_background_emphasis_medium"-->
-<!--            android:textSize="30dp"-->
-<!--            android:gravity="center"/>-->
 
         <TextView
             android:id="@+id/textTime"
